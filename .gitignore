@@ -1,0 +1,5 @@
+# Frontend dependencies & build
+web/node_modules/
+*.exe
+*.out
+.DS_Store
